@@ -1,3 +1,5 @@
+'use strict';
+
 const reposBtn = document.getElementById('search-btn');
 
 reposBtn.onclick = eventClick
